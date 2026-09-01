@@ -42,30 +42,6 @@ tmux.lua          navigation that does not care which program owns the pane
 
 <img src="assets/rule.svg" alt="" width="100%">
 
-### `~/ repos`
-
-```
-wearbrain                    dictate from a watch into a Cloudflare Worker that
-                             stores, embeds, and reasons over your own history
-claude-cost-dashboard        a usage export becomes a per person spend dashboard,
-                             entirely in the browser
-ts-drill                     TypeScript practice pad with a real IDE inside it,
-                             graded by the actual compiler
-agent-skill-sync             keeps skills and commands in sync across two agent
-                             CLIs
-spotify-liked-playlists      liked songs split by year or genre, written against
-                             the Web API as it actually behaves
-mechkeys                     keyboard sounds for macOS, synthesized at runtime,
-                             no samples
-wear-audiobooks              a deliberately tiny Wear OS player that never loses
-                             your place
-hammerspoon-portrait-layout  one hotkey, a vertical thirds stack on the portrait
-                             monitor
-fedora_tuf_dash_f15          a verified dual boot plan that keeps the dGPU asleep
-```
-
-<img src="assets/rule.svg" alt="" width="100%">
-
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-00f0ff?style=flat-square&labelColor=0d0118" alt="TypeScript">
   <img src="https://img.shields.io/badge/Lua-ff2bd1?style=flat-square&labelColor=0d0118" alt="Lua">
