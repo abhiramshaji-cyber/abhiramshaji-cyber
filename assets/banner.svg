@@ -34,12 +34,12 @@
   <circle cx="820" cy="70" r="52" fill="none" stroke="#ff2bd1" stroke-opacity="0.28" stroke-width="1"/>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
-    <text x="60" y="86" font-size="15" fill="#00f0ff" fill-opacity="0.75" letter-spacing="7">MONTREAL / SOLUTIONS ARCHITECT</text>
+    <text x="60" y="86" font-size="15" fill="#00f0ff" fill-opacity="0.75" letter-spacing="7">SOLUTIONS ARCHITECT III / BOTPRESS</text>
     <text x="58" y="152" font-size="54" font-weight="700" fill="#ff2bd1" fill-opacity="0.55" filter="url(#glow)" letter-spacing="4">ABHIRAM SHAJI</text>
     <text x="60" y="150" font-size="54" font-weight="700" fill="#eafcff" filter="url(#soft)" letter-spacing="4">ABHIRAM SHAJI
       <animate attributeName="fill-opacity" values="1;0.82;1;0.95;1" dur="5s" repeatCount="indefinite"/>
     </text>
-    <text x="62" y="192" font-size="16" fill="#8be9fd" fill-opacity="0.8" letter-spacing="2">conversational AI in production, small tools for everything else</text>
+    <text x="62" y="192" font-size="16" fill="#8be9fd" fill-opacity="0.8" letter-spacing="2">forward deployed: on the client call, then in the production code</text>
   </g>
 
   <rect x="60" y="208" width="880" height="2" fill="url(#rule)" filter="url(#soft)"/>
