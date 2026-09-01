@@ -1,8 +1,8 @@
-<img src="assets/banner.svg" alt="Abhiram Shaji" width="100%">
+<img src="assets/banner-v2.svg" alt="Abhiram Shaji" width="100%">
 
 <p align="center">
   <img src="https://img.shields.io/badge/SOLUTIONS_ARCHITECT_III-BOTPRESS-ff2bd1?style=for-the-badge&labelColor=0d0118" alt="Solutions Architect III at Botpress">
-  <img src="https://img.shields.io/badge/FORWARD-DEPLOYED-00f0ff?style=for-the-badge&labelColor=0d0118" alt="Forward deployed">
+  <img src="https://img.shields.io/badge/FORWARD_DEPLOYED-00f0ff?style=for-the-badge&labelColor=0d0118" alt="Forward deployed">
   <img src="https://img.shields.io/badge/BASED_IN-MONTREAL-7b2bff?style=for-the-badge&labelColor=0d0118" alt="Montreal">
 </p>
 
