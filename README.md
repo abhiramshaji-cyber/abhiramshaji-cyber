@@ -21,48 +21,6 @@ the product. I only bring in new tech once I have actually researched it.
 
 <img src="assets/rule.svg" alt="" width="100%">
 
-### `~/ work`
-
-```
-scope      19 enterprise engagements across 6 countries, each one
-           owned from scoping and architecture through TypeScript
-           implementation, launch, and CS handoff
-stack      Botpress ADK in TypeScript, no low code studio, wired
-           into whatever the client already runs: HubSpot,
-           Twilio, Shopify, WhatsApp, Gmail
-product    when one client needs something the market probably
-           needs too, it goes back into the product. The
-           ecommerce vertical and the delivery harness both
-           started as single engagements
-internal   work the team kept redoing became Claude skills and
-           agentic harnesses that scaffold, test, and validate a
-           whole bot end to end
-context    joined as the second person on delivery, reporting to
-           the Director of Delivery with no lead layer in
-           between. That team is now eight
-```
-
-<img src="assets/rule.svg" alt="" width="100%">
-
-### `~/ shipped`
-
-Selected from 19, all production deployed and tested end to end.
-
-```
-HEAG                 FSA Handbook knowledge base with citation validation
-PetSmart             enterprise support agent
-Yamaha Motor Mexico  lead qualification on WhatsApp and webchat
-iolo Technologies    retention agent with live CRM lookup
-London and Partners  live booking against the LTD and Ventrata APIs
-IonOptix             email drafts under strict RAG
-Back to the Roots    plant diagnosis plus Shopify product search
-UpsideDrinks.ca      bilingual FR and EN Shopify assistant
-Estrelar             autonomous support with JWT, MFA, and refund APIs
-Monjur               legal document knowledge automation
-```
-
-<img src="assets/rule.svg" alt="" width="100%">
-
 ### `~/ setup`
 
 ```
