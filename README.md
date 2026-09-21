@@ -37,15 +37,6 @@ gh.lua       2.6k lines of Lua: GitHub and Linear from inside the
              buffer
 ```
 
-### `~/ school`
-
-```
-2023    Post Graduate Diploma, Digital Design and Development,
-        mobile app stream. North Island College, BC
-2017    Bachelor of Engineering, Computer Science. Bangalore
-        City University
-```
-
 <img src="assets/rule.svg" alt="" width="100%">
 
 <p align="center">
