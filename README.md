@@ -37,28 +37,6 @@ gh.lua       2.6k lines of Lua: GitHub and Linear from inside the
              buffer
 ```
 
-<img src="assets/rule.svg" alt="" width="100%">
-
-### `~/ before`
-
-```
-Deloitte USI    Associate Analyst. For Aflac, automation that
-                categorized and routed insurance claims flagged for
-                revision, plus Selenium suites so regression passes
-                ran unattended
-Digital Uplift  co founded with recent Island grads. Automated
-                workflows that turned out small, clean Next.js sites
-                for boutique businesses with no web presence.
-                Lighthouse 100 on SEO, accessibility, and best
-                practices
-ObjectStore     contract build of objectstore.ca from architecture to
-                production, no agency in between
-Langroove       React Native and Firebase language practice app with
-                live translation
-```
-
-<img src="assets/rule.svg" alt="" width="100%">
-
 ### `~/ school`
 
 ```
