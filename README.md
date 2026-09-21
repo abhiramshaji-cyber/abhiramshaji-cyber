@@ -38,16 +38,3 @@ gh.lua       2.6k lines of Lua: GitHub and Linear from inside the
 ```
 
 <img src="assets/rule.svg" alt="" width="100%">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-00f0ff?style=flat-square&labelColor=0d0118" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-ff2bd1?style=flat-square&labelColor=0d0118" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-7b2bff?style=flat-square&labelColor=0d0118" alt="SQL">
-  <img src="https://img.shields.io/badge/Lua-00f0ff?style=flat-square&labelColor=0d0118" alt="Lua">
-  <img src="https://img.shields.io/badge/Node.js-ff2bd1?style=flat-square&labelColor=0d0118" alt="Node.js">
-  <img src="https://img.shields.io/badge/Botpress_ADK-7b2bff?style=flat-square&labelColor=0d0118" alt="Botpress ADK">
-  <img src="https://img.shields.io/badge/RAG_and_vector_search-00f0ff?style=flat-square&labelColor=0d0118" alt="RAG and vector search">
-  <img src="https://img.shields.io/badge/Vercel-ff2bd1?style=flat-square&labelColor=0d0118" alt="Vercel">
-  <img src="https://img.shields.io/badge/Docker-7b2bff?style=flat-square&labelColor=0d0118" alt="Docker">
-  <img src="https://img.shields.io/badge/Neovim-00f0ff?style=flat-square&labelColor=0d0118" alt="Neovim">
-</p>
