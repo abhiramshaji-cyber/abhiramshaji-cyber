@@ -21,7 +21,7 @@ the product. I only bring in new tech once I have actually researched it.
 
 <img src="assets/rule.svg" alt="" width="100%">
 
-### `~/ setup`
+### `Favourites`
 
 ```
 Neovim       LazyVim base, hand maintained. Clients, tickets, PRs,
