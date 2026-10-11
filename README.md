@@ -9,14 +9,6 @@
 
   <br><br>
 
-  <a href="https://worksofabhiram.live">work</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abhiram-kace">linkedin</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:write4abhiram@gmail.com">email</a>
-
-  <br><br><br>
-
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,2,0&height=2&section=header" width="72%" alt="divider">
 
 </div>
