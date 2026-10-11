@@ -1,40 +1,63 @@
-<img src="assets/banner-v2.svg" alt="Abhiram Shaji" width="100%">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SOLUTIONS_ARCHITECT_III-BOTPRESS-ff2bd1?style=for-the-badge&labelColor=0d0118" alt="Solutions Architect III at Botpress">
-  <img src="https://img.shields.io/badge/FORWARD_DEPLOYED-00f0ff?style=for-the-badge&labelColor=0d0118" alt="Forward deployed">
-  <img src="https://img.shields.io/badge/BASED_IN-MONTREAL-7b2bff?style=for-the-badge&labelColor=0d0118" alt="Montreal">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://worksofabhiram.live"><img src="https://img.shields.io/badge/PORTFOLIO-worksofabhiram.live-00f0ff?style=flat-square&labelColor=0d0118" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/abhiram-kace"><img src="https://img.shields.io/badge/LINKEDIN-abhiram--kace-7b2bff?style=flat-square&labelColor=0d0118" alt="LinkedIn"></a>
-  <a href="mailto:write4abhiram@gmail.com"><img src="https://img.shields.io/badge/EMAIL-write4abhiram@gmail.com-ff2bd1?style=flat-square&labelColor=0d0118" alt="Email"></a>
-</p>
+  <br>
 
-<img src="assets/rule.svg" alt="" width="100%">
+  <h1>abhiram shaji<span style="color:#888">.</span></h1>
 
-Most of my work happens forward deployed: on the call with the client, then in the codebase
-writing what we just agreed to. I sit with it until it actually ships, and the part I like more
-is what comes after, when something built for one client turns out to be worth putting back into
-the product. I only bring in new tech once I have actually researched it.
+  <samp>forward deployed engineering / botpress</samp>
 
-<img src="assets/rule.svg" alt="" width="100%">
+  <br><br>
 
-### `Favourites`
+  <a href="https://worksofabhiram.live">work</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhiram-kace">linkedin</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:write4abhiram@gmail.com">email</a>
 
+  <br><br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,2,0&height=2&section=header" width="72%" alt="divider">
+
+</div>
+
+<br>
+
+### 01 / about
+
+I build AI systems for enterprise clients at **Botpress**.
+
+Usually I'm on the client call, designing the solution, writing the
+code, and making sure it survives production. The useful bits
+eventually find their way back into the SDK.
+
+`19 enterprise deployments` &nbsp; `end-to-end ownership` &nbsp; `typescript`
+
+<br>
+
+### 02 / environment
+
+```text
+~/setup
+│
+├── editor       neovim / lazyvim
+├── terminal     ghostty
+├── agents
+│   ├── claude   30+ custom delivery skills
+│   ├── codex    connected over MCP
+│   └── pi       opus / sonnet / haiku
+│
+└── gh.lua       2,600 lines of Lua
+                to avoid using two websites
 ```
-Neovim       LazyVim base, hand maintained. Clients, tickets, PRs,
-             diffs, and deploys all live in one session
-Ghostty      GPU accelerated terminal, sharing one palette with the
-             editor so themes never drift
-Claude Code  30+ custom delivery skills for ADK building, live bot
-             testing, webchat validation
-Codex        wired in as an MCP server, bidirectional bridge so
-             both agents share the same tools
-Pi harness   dispatches Opus, Sonnet, and Haiku side by side
-gh.lua       2.6k lines of Lua: GitHub and Linear from inside the
-             buffer
-```
 
-<img src="assets/rule.svg" alt="" width="100%">
+<sub>At some point the development environment became a development project.</sub>
+
+<br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,2,0&height=2&section=header" width="72%" alt="divider">
+  <br><br>
+  <samp>montreal, qc &nbsp;·&nbsp; probably in a terminal</samp>
+  <br><br>
+</div>
