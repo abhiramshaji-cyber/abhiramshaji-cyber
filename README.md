@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B6B4A&height=2" width="55%" />
-<h1>Abhiram Shaji</h1>
 <sub>✦ &nbsp; words and ideas can change the world &nbsp; ✦</sub>
 <br><br>
 <a href="https://worksofabhiram.live/">
