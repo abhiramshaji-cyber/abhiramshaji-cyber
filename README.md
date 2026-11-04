@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhiramshaji-cyber&color=593A27&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=abhiramshaji-cyber&color=593A27&style=flat&base=7000" alt="profile views" />
 </p>
 
 <p align="center">
