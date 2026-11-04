@@ -9,6 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=abhiramshaji-cyber&color=593A27&style=flat" alt="profile views" />
 <br>
 <a href="https://worksofabhiram.live/">
-</a>
+<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B6B4A&height=2" width="55%" />
 </div>
