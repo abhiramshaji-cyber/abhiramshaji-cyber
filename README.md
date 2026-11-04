@@ -6,6 +6,7 @@
 <a href="https://worksofabhiram.live/">
   <img src="https://img.shields.io/badge/worksofabhiram.live-EEE1CA?style=flat-square&labelColor=EEE1CA&color=EEE1CA&logoColor=593A27" alt="Portfolio" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=abhiramshaji-cyber&color=593A27&style=flat" alt="profile views" />
 <br>
 <a href="https://worksofabhiram.live/">
 </a>
