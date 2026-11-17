@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B6B4A&height=2" width="55%" />
-</p>
-
-<p align="center">
-<sub>✦ &nbsp; words and ideas can change the world &nbsp; ✦</sub>
+<sub>Just finished my actual job at Botpress. Let me see what AWS, Google, Vercel, ElevenLabs, Supabase, Tailscale, Canonical, Dart, Genkit, CopilotKit, AutoGluon, Prebid, PR-Agent, and TensorBlock need help with today.</sub>
 </p>
 
 <p align="center">
@@ -11,9 +7,5 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhiramshaji-cyber&color=593A27&style=flat&base=7000" alt="profile views" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B6B4A&height=2" width="55%" />
+<img src="https://komarev.com/ghpvc/?username=abhiramshaji-cyber&color=593A27&style=flat&base=0" alt="profile views" />
 </p>
