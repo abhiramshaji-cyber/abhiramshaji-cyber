@@ -244,6 +244,9 @@
 
 </div>
 
+<br>
+<br>
+<br>
 
 <h2 align="center">Bugs found and resolved</h2>
 
