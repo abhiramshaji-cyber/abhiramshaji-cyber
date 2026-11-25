@@ -14,16 +14,6 @@
 
 ### Merged PRs (60)
 
-#### PR Agent
-
-| Contribution | Merged PR |
-| --- | --- |
-| Stopped bot comments from pinging people | [#4997](https://github.com/The-PR-Agent/pr-agent/pull/4997) |
-| Added per commit AI code reviews | [#4476](https://github.com/The-PR-Agent/pr-agent/pull/4476) |
-| Closed remaining mention ping loopholes | [#5027](https://github.com/The-PR-Agent/pr-agent/pull/5027) |
-| Added commit context to AI code reviews | [#4603](https://github.com/The-PR-Agent/pr-agent/pull/4603) |
-| Fixed duplicate GitLab review posts | [#5026](https://github.com/The-PR-Agent/pr-agent/pull/5026) |
-
 #### OpenAI
 
 | Contribution | Merged PR |
@@ -141,6 +131,16 @@
 | Removed dead frontend code and dependencies | [#4418](https://github.com/microsoft/PyRIT/pull/4418) |
 | Added dead code checks for the frontend | [#4413](https://github.com/microsoft/PyRIT/pull/4413) |
 
+#### PR Agent
+
+| Contribution | Merged PR |
+| --- | --- |
+| Stopped bot comments from pinging people | [#4997](https://github.com/The-PR-Agent/pr-agent/pull/4997) |
+| Added per commit AI code reviews | [#4476](https://github.com/The-PR-Agent/pr-agent/pull/4476) |
+| Closed remaining mention ping loopholes | [#5027](https://github.com/The-PR-Agent/pr-agent/pull/5027) |
+| Added commit context to AI code reviews | [#4603](https://github.com/The-PR-Agent/pr-agent/pull/4603) |
+| Fixed duplicate GitLab review posts | [#5026](https://github.com/The-PR-Agent/pr-agent/pull/5026) |
+
 #### AutoGluon
 
 | Contribution | Merged PR |
@@ -168,11 +168,6 @@
 | --- | --- |
 | Added Architect to the MCP server list | [#5218](https://github.com/TensorBlock/awesome-mcp-servers/pull/5218) |
 
-#### Up For Grabs
-
-| Contribution | Merged PR |
-| --- | --- |
-| Added Architect to the project list | [#6151](https://github.com/up-for-grabs/up-for-grabs.net/pull/6151) |
 
 ### Bugs found and resolved (29)
 
