@@ -1,5 +1,5 @@
 <p align="center">
-<sub>Just finished my actual job at <a href="https://github.com/botpress"><img src="https://github.com/botpress.png?size=40" width="16" height="16" align="absmiddle" alt="Botpress"></a> Botpress. Let me see what <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=40" width="16" height="16" align="absmiddle" alt="AWS"></a> AWS, <a href="https://github.com/google"><img src="https://github.com/google.png?size=40" width="16" height="16" align="absmiddle" alt="Google"></a> Google, <a href="https://github.com/vercel"><img src="https://github.com/vercel.png?size=40" width="16" height="16" align="absmiddle" alt="Vercel"></a> Vercel, <a href="https://github.com/elevenlabs"><img src="https://github.com/elevenlabs.png?size=40" width="16" height="16" align="absmiddle" alt="ElevenLabs"></a> ElevenLabs, <a href="https://github.com/supabase"><img src="https://github.com/supabase.png?size=40" width="16" height="16" align="absmiddle" alt="Supabase"></a> Supabase, <a href="https://github.com/tailscale"><img src="https://github.com/tailscale.png?size=40" width="16" height="16" align="absmiddle" alt="Tailscale"></a> Tailscale, <a href="https://github.com/canonical"><img src="https://github.com/canonical.png?size=40" width="16" height="16" align="absmiddle" alt="Canonical"></a> Canonical, <a href="https://github.com/dart-lang"><img src="https://github.com/dart-lang.png?size=40" width="16" height="16" align="absmiddle" alt="Dart"></a> Dart, <a href="https://github.com/genkit-ai"><img src="https://github.com/genkit-ai.png?size=40" width="16" height="16" align="absmiddle" alt="Genkit"></a> Genkit, <a href="https://github.com/CopilotKit"><img src="https://github.com/CopilotKit.png?size=40" width="16" height="16" align="absmiddle" alt="CopilotKit"></a> CopilotKit, <a href="https://github.com/autogluon"><img src="https://github.com/autogluon.png?size=40" width="16" height="16" align="absmiddle" alt="AutoGluon"></a> AutoGluon, <a href="https://github.com/prebid"><img src="https://github.com/prebid.png?size=40" width="16" height="16" align="absmiddle" alt="Prebid"></a> Prebid, <a href="https://github.com/The-PR-Agent"><img src="https://github.com/The-PR-Agent.png?size=40" width="16" height="16" align="absmiddle" alt="PR-Agent"></a> PR-Agent, and <a href="https://github.com/TensorBlock"><img src="https://github.com/TensorBlock.png?size=40" width="16" height="16" align="absmiddle" alt="TensorBlock"></a> TensorBlock need help with today.</sub>
+<sub>Just finished my actual job at Botpress. Let me see what AWS, Google, Vercel, ElevenLabs, Supabase, Tailscale, Canonical, Dart, Genkit, CopilotKit, AutoGluon, Prebid, PR-Agent, and TensorBlock need help with today.</sub>
 </p>
 
 <p align="center">
@@ -10,17 +10,23 @@
 <img src="https://komarev.com/ghpvc/?username=abhiramshaji-cyber&color=593A27&style=flat&base=0" alt="profile views" />
 </p>
 
-## Public structured contribution index
+<h1 align="center">Public structured contribution index</h1>
 
-### Merged PRs (60)
+<h2 align="center">Merged PRs</h2>
 
-#### <a href="https://github.com/openai"><img src="https://github.com/openai.png?size=40" width="16" height="16" align="absmiddle" alt="OpenAI"></a> OpenAI
+<h3 align="center"><a href="https://github.com/openai"><img src="https://github.com/openai.png?size=40" width="24" height="24" align="absmiddle" alt="OpenAI"></a> OpenAI</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
 | Fixed failed Deep Scan writes on Windows | [#2662](https://github.com/openai/codex-security/pull/2662) |
 
-#### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=40" width="16" height="16" align="absmiddle" alt="AWS"></a> AWS
+</div>
+
+<h3 align="center"><a href="https://github.com/aws"><img src="https://github.com/aws.png?size=40" width="24" height="24" align="absmiddle" alt="AWS"></a> AWS</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
@@ -32,19 +38,31 @@
 | Fixed memory crash on reasoning replies | [#718](https://github.com/aws/bedrock-agentcore-sdk-python/pull/718) |
 | Fixed CloudTrail diagnosis on large stacks | [#2140](https://github.com/aws/aws-cdk-cli/pull/2140) |
 
-#### <a href="https://github.com/supabase"><img src="https://github.com/supabase.png?size=40" width="16" height="16" align="absmiddle" alt="Supabase"></a> Supabase
+</div>
+
+<h3 align="center"><a href="https://github.com/supabase"><img src="https://github.com/supabase.png?size=40" width="24" height="24" align="absmiddle" alt="Supabase"></a> Supabase</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
 | Fixed false destructive SQL warnings | [#533](https://github.com/supabase/mcp/pull/533) |
 
-#### <a href="https://github.com/google"><img src="https://github.com/google.png?size=40" width="16" height="16" align="absmiddle" alt="Google"></a> Google
+</div>
+
+<h3 align="center"><a href="https://github.com/google"><img src="https://github.com/google.png?size=40" width="24" height="24" align="absmiddle" alt="Google"></a> Google</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
 | Fixed workflow session history corruption | [#1169](https://github.com/google/adk-js/pull/1169) |
 
-#### <a href="https://github.com/vercel"><img src="https://github.com/vercel.png?size=40" width="16" height="16" align="absmiddle" alt="Vercel"></a> Vercel
+</div>
+
+<h3 align="center"><a href="https://github.com/vercel"><img src="https://github.com/vercel.png?size=40" width="24" height="24" align="absmiddle" alt="Vercel"></a> Vercel</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
@@ -59,7 +77,11 @@
 | Fixed command lookup in explain | [#428](https://github.com/vercel/vercel-plugin/pull/428) |
 | Improved model choice advice | [#431](https://github.com/vercel/vercel-plugin/pull/431) |
 
-#### <a href="https://github.com/canonical"><img src="https://github.com/canonical.png?size=40" width="16" height="16" align="absmiddle" alt="Canonical"></a> Canonical
+</div>
+
+<h3 align="center"><a href="https://github.com/canonical"><img src="https://github.com/canonical.png?size=40" width="24" height="24" align="absmiddle" alt="Canonical"></a> Canonical</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
@@ -71,7 +93,11 @@
 | Corrected the minimum NVIDIA driver docs | [#395](https://github.com/canonical/inference-snaps/pull/395) |
 | Corrected the minimum NVIDIA driver on main | [#425](https://github.com/canonical/inference-snaps/pull/425) |
 
-#### <a href="https://github.com/elevenlabs"><img src="https://github.com/elevenlabs.png?size=40" width="16" height="16" align="absmiddle" alt="ElevenLabs"></a> ElevenLabs
+</div>
+
+<h3 align="center"><a href="https://github.com/elevenlabs"><img src="https://github.com/elevenlabs.png?size=40" width="24" height="24" align="absmiddle" alt="ElevenLabs"></a> ElevenLabs</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
@@ -80,32 +106,52 @@
 | Fixed typing activity signals | [#1180](https://github.com/elevenlabs/packages/pull/1180) |
 | Fixed stray spaces after audio tags | [#1181](https://github.com/elevenlabs/packages/pull/1181) |
 
-#### <a href="https://github.com/genkit-ai"><img src="https://github.com/genkit-ai.png?size=40" width="16" height="16" align="absmiddle" alt="Google Genkit"></a> Google Genkit
+</div>
+
+<h3 align="center"><a href="https://github.com/genkit-ai"><img src="https://github.com/genkit-ai.png?size=40" width="24" height="24" align="absmiddle" alt="Google Genkit"></a> Google Genkit</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
 | Stopped plugin tools registering on every call | [#6956](https://github.com/genkit-ai/genkit/pull/6956) |
 
-#### <a href="https://github.com/awslabs"><img src="https://github.com/awslabs.png?size=40" width="16" height="16" align="absmiddle" alt="AWS Labs"></a> AWS Labs
+</div>
+
+<h3 align="center"><a href="https://github.com/awslabs"><img src="https://github.com/awslabs.png?size=40" width="24" height="24" align="absmiddle" alt="AWS Labs"></a> AWS Labs</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
 | Kept pinned projects on their pinned release | [#4016](https://github.com/awslabs/aidlc-workflows/pull/4016) |
 | Stopped finished work resurfacing as questions | [#4003](https://github.com/awslabs/aidlc-workflows/pull/4003) |
 
-#### <a href="https://github.com/vercel-labs"><img src="https://github.com/vercel-labs.png?size=40" width="16" height="16" align="absmiddle" alt="Vercel Labs"></a> Vercel Labs
+</div>
+
+<h3 align="center"><a href="https://github.com/vercel-labs"><img src="https://github.com/vercel-labs.png?size=40" width="24" height="24" align="absmiddle" alt="Vercel Labs"></a> Vercel Labs</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
 | Fixed OAuth error responses in MCP auth | [#205](https://github.com/vercel-labs/mcp-handler/pull/205) |
 
-#### <a href="https://github.com/tailscale"><img src="https://github.com/tailscale.png?size=40" width="16" height="16" align="absmiddle" alt="Tailscale"></a> Tailscale
+</div>
+
+<h3 align="center"><a href="https://github.com/tailscale"><img src="https://github.com/tailscale.png?size=40" width="24" height="24" align="absmiddle" alt="Tailscale"></a> Tailscale</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
 | Fixed version inputs with a leading v | [#321](https://github.com/tailscale/github-action/pull/321) |
 
-#### <a href="https://github.com/dart-lang"><img src="https://github.com/dart-lang.png?size=40" width="16" height="16" align="absmiddle" alt="Dart"></a> Dart
+</div>
+
+<h3 align="center"><a href="https://github.com/dart-lang"><img src="https://github.com/dart-lang.png?size=40" width="24" height="24" align="absmiddle" alt="Dart"></a> Dart</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
@@ -115,7 +161,11 @@
 | Made URL elicitation ids optional | [#759](https://github.com/dart-lang/ai/pull/759) |
 | Fixed emoji length checks in tool arguments | [#748](https://github.com/dart-lang/ai/pull/748) |
 
-#### <a href="https://github.com/CopilotKit"><img src="https://github.com/CopilotKit.png?size=40" width="16" height="16" align="absmiddle" alt="CopilotKit"></a> CopilotKit
+</div>
+
+<h3 align="center"><a href="https://github.com/CopilotKit"><img src="https://github.com/CopilotKit.png?size=40" width="24" height="24" align="absmiddle" alt="CopilotKit"></a> CopilotKit</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
@@ -123,7 +173,11 @@
 | Fixed replay of empty model replies | [#623](https://github.com/CopilotKit/aimock/pull/623) |
 | Fixed recording of embedding replies | [#624](https://github.com/CopilotKit/aimock/pull/624) |
 
-#### <a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=40" width="16" height="16" align="absmiddle" alt="Microsoft"></a> Microsoft
+</div>
+
+<h3 align="center"><a href="https://github.com/microsoft"><img src="https://github.com/microsoft.png?size=40" width="24" height="24" align="absmiddle" alt="Microsoft"></a> Microsoft</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
@@ -131,7 +185,11 @@
 | Removed dead frontend code and dependencies | [#4418](https://github.com/microsoft/PyRIT/pull/4418) |
 | Added dead code checks for the frontend | [#4413](https://github.com/microsoft/PyRIT/pull/4413) |
 
-#### <a href="https://github.com/The-PR-Agent"><img src="https://github.com/The-PR-Agent.png?size=40" width="16" height="16" align="absmiddle" alt="PR Agent"></a> PR Agent
+</div>
+
+<h3 align="center"><a href="https://github.com/The-PR-Agent"><img src="https://github.com/The-PR-Agent.png?size=40" width="24" height="24" align="absmiddle" alt="PR Agent"></a> PR Agent</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
@@ -141,19 +199,31 @@
 | Added commit context to AI code reviews | [#4603](https://github.com/The-PR-Agent/pr-agent/pull/4603) |
 | Fixed duplicate GitLab review posts | [#5026](https://github.com/The-PR-Agent/pr-agent/pull/5026) |
 
-#### <a href="https://github.com/autogluon"><img src="https://github.com/autogluon.png?size=40" width="16" height="16" align="absmiddle" alt="AutoGluon"></a> AutoGluon
+</div>
+
+<h3 align="center"><a href="https://github.com/autogluon"><img src="https://github.com/autogluon.png?size=40" width="24" height="24" align="absmiddle" alt="AutoGluon"></a> AutoGluon</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
 | Silenced a pandas warning on every KNN fit | [#6036](https://github.com/autogluon/autogluon/pull/6036) |
 
-#### <a href="https://github.com/aws-samples"><img src="https://github.com/aws-samples.png?size=40" width="16" height="16" align="absmiddle" alt="AWS Samples"></a> AWS Samples
+</div>
+
+<h3 align="center"><a href="https://github.com/aws-samples"><img src="https://github.com/aws-samples.png?size=40" width="24" height="24" align="absmiddle" alt="AWS Samples"></a> AWS Samples</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
 | Fixed install with global git hooks | [#1064](https://github.com/aws-samples/sample-autonomous-cloud-coding-agents/pull/1064) |
 
-#### <a href="https://github.com/prebid"><img src="https://github.com/prebid.png?size=40" width="16" height="16" align="absmiddle" alt="Prebid"></a> Prebid
+</div>
+
+<h3 align="center"><a href="https://github.com/prebid"><img src="https://github.com/prebid.png?size=40" width="24" height="24" align="absmiddle" alt="Prebid"></a> Prebid</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
@@ -162,66 +232,106 @@
 | Fixed the StackAdapt video example | [#6876](https://github.com/prebid/prebid.github.io/pull/6876) |
 | Fixed the Equativ video example | [#6976](https://github.com/prebid/prebid.github.io/pull/6976) |
 
-#### <a href="https://github.com/TensorBlock"><img src="https://github.com/TensorBlock.png?size=40" width="16" height="16" align="absmiddle" alt="TensorBlock"></a> TensorBlock
+</div>
+
+<h3 align="center"><a href="https://github.com/TensorBlock"><img src="https://github.com/TensorBlock.png?size=40" width="24" height="24" align="absmiddle" alt="TensorBlock"></a> TensorBlock</h3>
+
+<div align="center">
 
 | Contribution | Merged PR |
 | --- | --- |
 | Added Architect to the MCP server list | [#5218](https://github.com/TensorBlock/awesome-mcp-servers/pull/5218) |
 
+</div>
 
-### Bugs found and resolved (29)
 
-#### <a href="https://github.com/n8n-io"><img src="https://github.com/n8n-io.png?size=40" width="16" height="16" align="absmiddle" alt="n8n"></a> n8n
+<h2 align="center">Bugs found and resolved</h2>
+
+<h3 align="center"><a href="https://github.com/n8n-io"><img src="https://github.com/n8n-io.png?size=40" width="24" height="24" align="absmiddle" alt="n8n"></a> n8n</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found Gemini node crash on blocked prompts | [#43590](https://github.com/n8n-io/n8n/issues/43590) | [#43899](https://github.com/n8n-io/n8n/pull/43899) |
 
-#### <a href="https://github.com/google-gemini"><img src="https://github.com/google-gemini.png?size=40" width="16" height="16" align="absmiddle" alt="Google Gemini"></a> Google Gemini
+</div>
+
+<h3 align="center"><a href="https://github.com/google-gemini"><img src="https://github.com/google-gemini.png?size=40" width="24" height="24" align="absmiddle" alt="Google Gemini"></a> Google Gemini</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found argument corruption in custom commands | [#30105](https://github.com/google-gemini/gemini-cli/issues/30105) | [#30136](https://github.com/google-gemini/gemini-cli/pull/30136) |
 
-#### <a href="https://github.com/openai"><img src="https://github.com/openai.png?size=40" width="16" height="16" align="absmiddle" alt="OpenAI"></a> OpenAI
+</div>
+
+<h3 align="center"><a href="https://github.com/openai"><img src="https://github.com/openai.png?size=40" width="24" height="24" align="absmiddle" alt="OpenAI"></a> OpenAI</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found failed Deep Scan writes on Windows | [#2661](https://github.com/openai/codex-security/issues/2661) | [#2662](https://github.com/openai/codex-security/pull/2662) |
 | Found span batches lost on one bad span | [#2383](https://github.com/openai/openai-agents-js/issues/2383) | [#2670](https://github.com/openai/openai-agents-js/pull/2670) |
 
-#### <a href="https://github.com/The-PR-Agent"><img src="https://github.com/The-PR-Agent.png?size=40" width="16" height="16" align="absmiddle" alt="PR Agent"></a> PR Agent
+</div>
+
+<h3 align="center"><a href="https://github.com/The-PR-Agent"><img src="https://github.com/The-PR-Agent.png?size=40" width="24" height="24" align="absmiddle" alt="PR Agent"></a> PR Agent</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found bot comments pinging people | [#4993](https://github.com/The-PR-Agent/pr-agent/issues/4993) | [#4997](https://github.com/The-PR-Agent/pr-agent/pull/4997) |
 
-#### <a href="https://github.com/mastra-ai"><img src="https://github.com/mastra-ai.png?size=40" width="16" height="16" align="absmiddle" alt="Mastra"></a> Mastra
+</div>
+
+<h3 align="center"><a href="https://github.com/mastra-ai"><img src="https://github.com/mastra-ai.png?size=40" width="24" height="24" align="absmiddle" alt="Mastra"></a> Mastra</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found wrong results from Upstash filters | [#29665](https://github.com/mastra-ai/mastra/issues/29665) | [#29760](https://github.com/mastra-ai/mastra/pull/29760) |
 | Found working memory guard never firing | [#30287](https://github.com/mastra-ai/mastra/issues/30287) | [#30306](https://github.com/mastra-ai/mastra/pull/30306) |
 
-#### <a href="https://github.com/strands-agents"><img src="https://github.com/strands-agents.png?size=40" width="16" height="16" align="absmiddle" alt="Strands Agents"></a> Strands Agents
+</div>
+
+<h3 align="center"><a href="https://github.com/strands-agents"><img src="https://github.com/strands-agents.png?size=40" width="24" height="24" align="absmiddle" alt="Strands Agents"></a> Strands Agents</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found Gemini overload errors not retried | [#5916](https://github.com/strands-agents/harness-sdk/issues/5916) | [#5947](https://github.com/strands-agents/harness-sdk/pull/5947) |
 
-#### <a href="https://github.com/cloudflare"><img src="https://github.com/cloudflare.png?size=40" width="16" height="16" align="absmiddle" alt="Cloudflare"></a> Cloudflare
+</div>
+
+<h3 align="center"><a href="https://github.com/cloudflare"><img src="https://github.com/cloudflare.png?size=40" width="24" height="24" align="absmiddle" alt="Cloudflare"></a> Cloudflare</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found corrupted binary tool responses | [#400](https://github.com/cloudflare/mcp/issues/400) | [#408](https://github.com/cloudflare/mcp/pull/408) |
 
-#### <a href="https://github.com/temporalio"><img src="https://github.com/temporalio.png?size=40" width="16" height="16" align="absmiddle" alt="Temporal"></a> Temporal
+</div>
+
+<h3 align="center"><a href="https://github.com/temporalio"><img src="https://github.com/temporalio.png?size=40" width="24" height="24" align="absmiddle" alt="Temporal"></a> Temporal</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found workflow stream data being dropped | [#2678](https://github.com/temporalio/sdk-typescript/issues/2678) | [#2680](https://github.com/temporalio/sdk-typescript/pull/2680) |
 
-#### <a href="https://github.com/elevenlabs"><img src="https://github.com/elevenlabs.png?size=40" width="16" height="16" align="absmiddle" alt="ElevenLabs"></a> ElevenLabs
+</div>
+
+<h3 align="center"><a href="https://github.com/elevenlabs"><img src="https://github.com/elevenlabs.png?size=40" width="24" height="24" align="absmiddle" alt="ElevenLabs"></a> ElevenLabs</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
@@ -230,7 +340,11 @@
 | Found missing typing activity signals | [#1178](https://github.com/elevenlabs/packages/issues/1178) | [#1180](https://github.com/elevenlabs/packages/pull/1180) |
 | Found stray spaces after audio tags | [#1179](https://github.com/elevenlabs/packages/issues/1179) | [#1181](https://github.com/elevenlabs/packages/pull/1181) |
 
-#### <a href="https://github.com/vercel"><img src="https://github.com/vercel.png?size=40" width="16" height="16" align="absmiddle" alt="Vercel"></a> Vercel
+</div>
+
+<h3 align="center"><a href="https://github.com/vercel"><img src="https://github.com/vercel.png?size=40" width="24" height="24" align="absmiddle" alt="Vercel"></a> Vercel</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
@@ -240,47 +354,77 @@
 | Found broken copy for BigInt payloads | [#5511](https://github.com/vercel/workflow/issues/5511) | [#5517](https://github.com/vercel/workflow/pull/5517) |
 | Found raw frontmatter on Windows checkouts | [#429](https://github.com/vercel/vercel-plugin/issues/429) | [#430](https://github.com/vercel/vercel-plugin/pull/430) |
 
-#### <a href="https://github.com/PostHog"><img src="https://github.com/PostHog.png?size=40" width="16" height="16" align="absmiddle" alt="PostHog"></a> PostHog
+</div>
+
+<h3 align="center"><a href="https://github.com/PostHog"><img src="https://github.com/PostHog.png?size=40" width="24" height="24" align="absmiddle" alt="PostHog"></a> PostHog</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found missing Anthropic thinking tokens | [#5587](https://github.com/PostHog/posthog-js/issues/5587) | [#5609](https://github.com/PostHog/posthog-js/pull/5609) |
 | Found dropped custom tool calls in streams | [#5690](https://github.com/PostHog/posthog-js/issues/5690) | [#5691](https://github.com/PostHog/posthog-js/pull/5691) |
 
-#### <a href="https://github.com/neondatabase"><img src="https://github.com/neondatabase.png?size=40" width="16" height="16" align="absmiddle" alt="Neon"></a> Neon
+</div>
+
+<h3 align="center"><a href="https://github.com/neondatabase"><img src="https://github.com/neondatabase.png?size=40" width="24" height="24" align="absmiddle" alt="Neon"></a> Neon</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found missing constraints for read only roles | [#1113](https://github.com/neondatabase/neon-pkgs/issues/1113) | [#1139](https://github.com/neondatabase/neon-pkgs/pull/1139) |
 
-#### <a href="https://github.com/aws"><img src="https://github.com/aws.png?size=40" width="16" height="16" align="absmiddle" alt="AWS"></a> AWS
+</div>
+
+<h3 align="center"><a href="https://github.com/aws"><img src="https://github.com/aws.png?size=40" width="24" height="24" align="absmiddle" alt="AWS"></a> AWS</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found CloudTrail diagnosis gaps on large stacks | [#2139](https://github.com/aws/aws-cdk-cli/issues/2139) | [#2140](https://github.com/aws/aws-cdk-cli/pull/2140) |
 
-#### <a href="https://github.com/google"><img src="https://github.com/google.png?size=40" width="16" height="16" align="absmiddle" alt="Google"></a> Google
+</div>
+
+<h3 align="center"><a href="https://github.com/google"><img src="https://github.com/google.png?size=40" width="24" height="24" align="absmiddle" alt="Google"></a> Google</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found null headers sent as text | [#1229](https://github.com/google/adk-js/issues/1229) | [#1241](https://github.com/google/adk-js/pull/1241) |
 
-#### <a href="https://github.com/convex"><img src="https://github.com/convex.png?size=40" width="16" height="16" align="absmiddle" alt="Convex"></a> Convex
+</div>
+
+<h3 align="center"><a href="https://github.com/convex"><img src="https://github.com/convex.png?size=40" width="24" height="24" align="absmiddle" alt="Convex"></a> Convex</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found extra quotes in tool error text | [#463](https://github.com/convex/agent/issues/463) | [#464](https://github.com/convex/agent/pull/464) |
 
-#### <a href="https://github.com/dart-lang"><img src="https://github.com/dart-lang.png?size=40" width="16" height="16" align="absmiddle" alt="Dart"></a> Dart
+</div>
+
+<h3 align="center"><a href="https://github.com/dart-lang"><img src="https://github.com/dart-lang.png?size=40" width="24" height="24" align="absmiddle" alt="Dart"></a> Dart</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found emoji length checks miscounting | [#746](https://github.com/dart-lang/ai/issues/746) | [#748](https://github.com/dart-lang/ai/pull/748) |
 
-#### <a href="https://github.com/canonical"><img src="https://github.com/canonical.png?size=40" width="16" height="16" align="absmiddle" alt="Canonical"></a> Canonical
+</div>
+
+<h3 align="center"><a href="https://github.com/canonical"><img src="https://github.com/canonical.png?size=40" width="24" height="24" align="absmiddle" alt="Canonical"></a> Canonical</h3>
+
+<div align="center">
 
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Found hidden resources in project deletes | [#2454](https://github.com/canonical/lxd-ui/issues/2454) | [#2455](https://github.com/canonical/lxd-ui/pull/2455) |
 | Found broken ACL usage links | [#2451](https://github.com/canonical/lxd-ui/issues/2451) | [#2453](https://github.com/canonical/lxd-ui/pull/2453) |
 | Found misleading memory meter text | [#2450](https://github.com/canonical/lxd-ui/issues/2450) | [#2452](https://github.com/canonical/lxd-ui/pull/2452) |
+
+</div>
