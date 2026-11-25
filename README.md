@@ -174,7 +174,7 @@
 | --- | --- |
 | Added Architect to the project list | [#6151](https://github.com/up-for-grabs/up-for-grabs.net/pull/6151) |
 
-### Issues worked on (29)
+### Issues reported and resolved (29)
 
 #### n8n
 
