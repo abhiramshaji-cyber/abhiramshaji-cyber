@@ -174,7 +174,7 @@
 | --- | --- |
 | Added Architect to the project list | [#6151](https://github.com/up-for-grabs/up-for-grabs.net/pull/6151) |
 
-### Issues worked on (31)
+### Issues worked on (29)
 
 #### n8n
 
@@ -193,7 +193,6 @@
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Reported failed Deep Scan writes on Windows | [#2661](https://github.com/openai/codex-security/issues/2661) | [#2662](https://github.com/openai/codex-security/pull/2662) |
-| Reported reasoning settings silently dropped | [#2332](https://github.com/openai/openai-agents-js/issues/2332) | closed as completed |
 | Reported span batches lost on one bad span | [#2383](https://github.com/openai/openai-agents-js/issues/2383) | [#2670](https://github.com/openai/openai-agents-js/pull/2670) |
 
 #### PR Agent
@@ -276,12 +275,6 @@
 | Contribution | Issue | Fix PR |
 | --- | --- | --- |
 | Reported extra quotes in tool error text | [#463](https://github.com/convex/agent/issues/463) | [#464](https://github.com/convex/agent/pull/464) |
-
-#### Stripe
-
-| Contribution | Issue | Fix PR |
-| --- | --- | --- |
-| Reported metadata values split on commas | [#535](https://github.com/stripe/link-cli/issues/535) | closed as completed |
 
 #### Dart
 
