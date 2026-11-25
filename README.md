@@ -77,37 +77,22 @@
 | TensorBlock | TensorBlock/awesome-mcp-servers | Added Architect to the MCP server list | [#5218](https://github.com/TensorBlock/awesome-mcp-servers/pull/5218) |
 | Up For Grabs | up-for-grabs/up-for-grabs.net | Added Architect to the project list | [#6151](https://github.com/up-for-grabs/up-for-grabs.net/pull/6151) |
 
-### Issues worked on (52)
+### Issues worked on (31)
 
 | Organization | Repository | Contribution | Issue | Fix PR |
 | --- | --- | --- | --- | --- |
 | n8n | n8n-io/n8n | Reported Gemini node crash on blocked prompts | [#43590](https://github.com/n8n-io/n8n/issues/43590) | [#43899](https://github.com/n8n-io/n8n/pull/43899) |
 | Google Gemini | google-gemini/gemini-cli | Reported argument corruption in custom commands | [#30105](https://github.com/google-gemini/gemini-cli/issues/30105) | [#30136](https://github.com/google-gemini/gemini-cli/pull/30136) |
-| OpenCode | anomalyco/opencode | Reported leaked commentary in compaction summaries | [#63439](https://github.com/anomalyco/opencode/issues/63439) | in progress |
-| Google | google/adk-js | Reported empty userId returning all sessions | [#1380](https://github.com/google/adk-js/issues/1380) | in progress |
-| Google | google/adk-js | Reported credentials sent to opted out operations | [#1316](https://github.com/google/adk-js/issues/1316) | in progress |
 | OpenAI | openai/codex-security | Reported failed Deep Scan writes on Windows | [#2661](https://github.com/openai/codex-security/issues/2661) | [#2662](https://github.com/openai/codex-security/pull/2662) |
 | PR Agent | The-PR-Agent/pr-agent | Reported bot comments pinging people | [#4993](https://github.com/The-PR-Agent/pr-agent/issues/4993) | [#4997](https://github.com/The-PR-Agent/pr-agent/pull/4997) |
-| Apple | apple/container | Reported log follow exiting on empty logs | [#2492](https://github.com/apple/container/issues/2492) | in progress |
 | Mastra | mastra-ai/mastra | Reported wrong results from Upstash filters | [#29665](https://github.com/mastra-ai/mastra/issues/29665) | [#29760](https://github.com/mastra-ai/mastra/pull/29760) |
-| Google Genkit | genkit-ai/genkit | Reported API keys leaking into request bodies | [#7261](https://github.com/genkit-ai/genkit/issues/7261) | in progress |
 | Mastra | mastra-ai/mastra | Reported working memory guard never firing | [#30287](https://github.com/mastra-ai/mastra/issues/30287) | [#30306](https://github.com/mastra-ai/mastra/pull/30306) |
-| Vercel Labs | vercel-labs/skills | Reported silent loss of a corrupt skill lock | [#2777](https://github.com/vercel-labs/skills/issues/2777) | in progress |
 | Strands Agents | strands-agents/harness-sdk | Reported Gemini overload errors not retried | [#5916](https://github.com/strands-agents/harness-sdk/issues/5916) | [#5947](https://github.com/strands-agents/harness-sdk/pull/5947) |
 | OpenAI | openai/openai-agents-js | Reported reasoning settings silently dropped | [#2332](https://github.com/openai/openai-agents-js/issues/2332) | closed as completed |
 | Cloudflare | cloudflare/mcp | Reported corrupted binary tool responses | [#400](https://github.com/cloudflare/mcp/issues/400) | [#408](https://github.com/cloudflare/mcp/pull/408) |
-| ElevenLabs | elevenlabs/packages | Reported mic audio sent while muted | [#1205](https://github.com/elevenlabs/packages/issues/1205) | in progress |
-| ElevenLabs | elevenlabs/packages | Reported mic held after sessions end | [#1204](https://github.com/elevenlabs/packages/issues/1204) | in progress |
-| LangChain | langchain-ai/deepagentsjs | Reported parallel subagents undoing file edits | [#1036](https://github.com/langchain-ai/deepagentsjs/issues/1036) | in progress |
-| Google | google/adk-js | Reported concurrent runs closing shared toolsets | [#1361](https://github.com/google/adk-js/issues/1361) | in progress |
 | Temporal | temporalio/sdk-typescript | Reported workflow stream data being dropped | [#2678](https://github.com/temporalio/sdk-typescript/issues/2678) | [#2680](https://github.com/temporalio/sdk-typescript/pull/2680) |
 | ElevenLabs | elevenlabs/packages | Reported mic resampler race on Firefox | [#1163](https://github.com/elevenlabs/packages/issues/1163) | [#1172](https://github.com/elevenlabs/packages/pull/1172) |
-| Firebase | firebase/firebase-js-sdk | Reported wrong safety ratings across candidates | [#10651](https://github.com/firebase/firebase-js-sdk/issues/10651) | in progress |
 | Vercel | vercel/workflow | Reported decorator build failures in Nitro and Nuxt | [#5510](https://github.com/vercel/workflow/issues/5510) | [#5568](https://github.com/vercel/workflow/pull/5568) |
-| Browserbase | browserbase/stagehand | Reported locator chaining diverging from Playwright | [#3444](https://github.com/browserbase/stagehand/issues/3444) | in progress |
-| Vercel | vercel/ai | Reported fixed transcription polling timeouts | [#25169](https://github.com/vercel/ai/issues/25169) | in progress |
-| Promptfoo | promptfoo/promptfoo | Reported graders losing their object context | [#12390](https://github.com/promptfoo/promptfoo/issues/12390) | in progress |
-| Google | google/adk-js | Reported auth dropped for registry MCP tools | [#1382](https://github.com/google/adk-js/issues/1382) | in progress |
 | PostHog | PostHog/posthog-js | Reported missing Anthropic thinking tokens | [#5587](https://github.com/PostHog/posthog-js/issues/5587) | [#5609](https://github.com/PostHog/posthog-js/pull/5609) |
 | PostHog | PostHog/posthog-js | Reported dropped custom tool calls in streams | [#5690](https://github.com/PostHog/posthog-js/issues/5690) | [#5691](https://github.com/PostHog/posthog-js/pull/5691) |
 | Vercel | vercel/chat | Reported false bot mentions in Google Chat | [#1117](https://github.com/vercel/chat/issues/1117) | [#1123](https://github.com/vercel/chat/pull/1123) |
@@ -117,12 +102,6 @@
 | OpenAI | openai/openai-agents-js | Reported span batches lost on one bad span | [#2383](https://github.com/openai/openai-agents-js/issues/2383) | [#2670](https://github.com/openai/openai-agents-js/pull/2670) |
 | Vercel | vercel/chat | Reported block quotes cut to one line | [#1147](https://github.com/vercel/chat/issues/1147) | [#1156](https://github.com/vercel/chat/pull/1156) |
 | Google | google/adk-js | Reported null headers sent as text | [#1229](https://github.com/google/adk-js/issues/1229) | [#1241](https://github.com/google/adk-js/pull/1241) |
-| Google | google/adk-js | Reported inconsistent session filters | [#1362](https://github.com/google/adk-js/issues/1362) | in progress |
-| Google | google/adk-js | Reported broken object args in few shot examples | [#1381](https://github.com/google/adk-js/issues/1381) | in progress |
-| Google Genkit | genkit-ai/genkit | Reported Ollama text dropped with tool calls | [#7055](https://github.com/genkit-ai/genkit/issues/7055) | in progress |
-| Strands Agents | strands-agents/harness-sdk | Reported audio parts returned as video | [#6115](https://github.com/strands-agents/harness-sdk/issues/6115) | in progress |
-| Vercel | vercel/eve | Reported question options hidden on chat platforms | [#6039](https://github.com/vercel/eve/issues/6039) | [#6044](https://github.com/vercel/eve/pull/6044) (closed) |
-| Vercel | vercel/streamdown | Reported props ignored on unchanged markdown | [#755](https://github.com/vercel/streamdown/issues/755) | in progress |
 | Convex | convex/agent | Reported extra quotes in tool error text | [#463](https://github.com/convex/agent/issues/463) | [#464](https://github.com/convex/agent/pull/464) |
 | Stripe | stripe/link-cli | Reported metadata values split on commas | [#535](https://github.com/stripe/link-cli/issues/535) | closed as completed |
 | Dart | dart-lang/ai | Reported emoji length checks miscounting | [#746](https://github.com/dart-lang/ai/issues/746) | [#748](https://github.com/dart-lang/ai/pull/748) |
