@@ -1,5 +1,5 @@
 <p align="center">
-<sub>Just finished my actual job at Botpress. Let me see what AWS, Google, Vercel, ElevenLabs, Supabase, Tailscale, Canonical, Dart, Genkit, CopilotKit, AutoGluon, Prebid, PR-Agent, and TensorBlock need help with today.</sub>
+<sub>Just finished my actual job at Botpress. Let me see what AWS, Google, Vercel, ElevenLabs, Supabase, Tailscale, Canonical, Dart, Genkit, CopilotKit, AutoGluon, Prebid, and PR-Agent need help with today.</sub>
 </p>
 
 <p align="center">
@@ -245,36 +245,6 @@
 | Contribution | Merged PR |
 | --- | --- |
 | Fixed listener mocks in jest-expo | [#53298](https://github.com/expo/expo/pull/53298) |
-
-</div>
-
-<h3 align="center"><a href="https://github.com/TensorBlock"><img src="https://github.com/TensorBlock.png?size=40" width="24" height="24" align="absmiddle" alt="TensorBlock"></a> TensorBlock</h3>
-
-<div align="center">
-
-| Contribution | Merged PR |
-| --- | --- |
-| Added Architect to the MCP server list | [#5218](https://github.com/TensorBlock/awesome-mcp-servers/pull/5218) |
-
-</div>
-
-<h3 align="center"><a href="https://github.com/serhii-londar"><img src="https://github.com/serhii-londar.png?size=40" width="24" height="24" align="absmiddle" alt="Open Source macOS Apps"></a> Open Source macOS Apps</h3>
-
-<div align="center">
-
-| Contribution | Merged PR |
-| --- | --- |
-| Added Architect to the macOS app list | [#1935](https://github.com/serhii-londar/open-source-mac-os-apps/pull/1935) |
-
-</div>
-
-<h3 align="center"><a href="https://github.com/up-for-grabs"><img src="https://github.com/up-for-grabs.png?size=40" width="24" height="24" align="absmiddle" alt="Up For Grabs"></a> Up For Grabs</h3>
-
-<div align="center">
-
-| Contribution | Merged PR |
-| --- | --- |
-| Added Architect to the beginner friendly project list | [#6151](https://github.com/up-for-grabs/up-for-grabs.net/pull/6151) |
 
 </div>
 
