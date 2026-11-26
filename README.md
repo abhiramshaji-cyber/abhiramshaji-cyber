@@ -76,6 +76,7 @@
 | Fixed raw frontmatter on Windows sessions | [#430](https://github.com/vercel/vercel-plugin/pull/430) |
 | Fixed command lookup in explain | [#428](https://github.com/vercel/vercel-plugin/pull/428) |
 | Improved model choice advice | [#431](https://github.com/vercel/vercel-plugin/pull/431) |
+| Closed model streams when adapters stop reading early | [#1172](https://github.com/vercel/chat/pull/1172) |
 
 </div>
 
@@ -126,6 +127,8 @@
 | --- | --- |
 | Kept pinned projects on their pinned release | [#4016](https://github.com/awslabs/aidlc-workflows/pull/4016) |
 | Stopped finished work resurfacing as questions | [#4003](https://github.com/awslabs/aidlc-workflows/pull/4003) |
+| Kept line endings when saving practices on Windows | [#4050](https://github.com/awslabs/aidlc-workflows/pull/4050) |
+| Kept the practices gate shut until every item is a rule | [#4051](https://github.com/awslabs/aidlc-workflows/pull/4051) |
 
 </div>
 
@@ -172,6 +175,7 @@
 | Fixed recording of non streamed replies | [#619](https://github.com/CopilotKit/aimock/pull/619) |
 | Fixed replay of empty model replies | [#623](https://github.com/CopilotKit/aimock/pull/623) |
 | Fixed recording of embedding replies | [#624](https://github.com/CopilotKit/aimock/pull/624) |
+| Fixed matching of split image turns | [#643](https://github.com/CopilotKit/aimock/pull/643) |
 
 </div>
 
@@ -234,6 +238,16 @@
 
 </div>
 
+<h3 align="center"><a href="https://github.com/expo"><img src="https://github.com/expo.png?size=40" width="24" height="24" align="absmiddle" alt="Expo"></a> Expo</h3>
+
+<div align="center">
+
+| Contribution | Merged PR |
+| --- | --- |
+| Fixed listener mocks in jest-expo | [#53298](https://github.com/expo/expo/pull/53298) |
+
+</div>
+
 <h3 align="center"><a href="https://github.com/TensorBlock"><img src="https://github.com/TensorBlock.png?size=40" width="24" height="24" align="absmiddle" alt="TensorBlock"></a> TensorBlock</h3>
 
 <div align="center">
@@ -241,6 +255,26 @@
 | Contribution | Merged PR |
 | --- | --- |
 | Added Architect to the MCP server list | [#5218](https://github.com/TensorBlock/awesome-mcp-servers/pull/5218) |
+
+</div>
+
+<h3 align="center"><a href="https://github.com/serhii-londar"><img src="https://github.com/serhii-londar.png?size=40" width="24" height="24" align="absmiddle" alt="Open Source macOS Apps"></a> Open Source macOS Apps</h3>
+
+<div align="center">
+
+| Contribution | Merged PR |
+| --- | --- |
+| Added Architect to the macOS app list | [#1935](https://github.com/serhii-londar/open-source-mac-os-apps/pull/1935) |
+
+</div>
+
+<h3 align="center"><a href="https://github.com/up-for-grabs"><img src="https://github.com/up-for-grabs.png?size=40" width="24" height="24" align="absmiddle" alt="Up For Grabs"></a> Up For Grabs</h3>
+
+<div align="center">
+
+| Contribution | Merged PR |
+| --- | --- |
+| Added Architect to the beginner friendly project list | [#6151](https://github.com/up-for-grabs/up-for-grabs.net/pull/6151) |
 
 </div>
 
